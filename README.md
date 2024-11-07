@@ -1,5 +1,4 @@
-<div align="center">
-  <a href="https://github.com/martimsoutooo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martimsoutooo&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimsoutooo&layout=compact&langs_count=5&theme=tokyonight" alt="Languages breakdown" />
-</div>
+![martimsoutooo's Stats](https://github-readme-stats.vercel.app/api?username=martimsoutooo&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![martimsoutooo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martimsoutooo&theme=merko&hide_border=false)
+![martimsoutooo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martimsoutooo&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
